@@ -30,13 +30,7 @@ Seasonal and time-based trends.
 
 # Project Structure
 
-├── data/                 # Raw and processed datasets
-├── notebooks/            # Jupyter notebooks for data exploration & modeling
-├── src/                  # Python scripts for data processing and analysis
-├── models/               # Machine learning models and results
-├── reports/              # Findings, visualizations, and documentation
-├── README.md             # Project documentation
-└── requirements.txt      # Dependencies
+![](https://github.com/sshah76/Big-Data-Project/blob/main/Flight%20Delay%20-%20Project%20Structure.png)
 
 
 # Methodology
